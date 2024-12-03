@@ -18,5 +18,5 @@ console.log(laranja); // 83284
 laranja = "Laranja"
 console.log(laranja); // Laranja
 
-let um = 1,  dois = 2 , três = 3;
-console.log(um + dois + três); // 6
+let um = 1,  dois = 2 , tres = 3;
+console.log(um + dois + tres); // 6
