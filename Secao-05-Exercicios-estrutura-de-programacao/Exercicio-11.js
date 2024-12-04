@@ -1,5 +1,5 @@
 
-let idade = 17;
+let idade = 30;
 
 let cnh = false;
 
