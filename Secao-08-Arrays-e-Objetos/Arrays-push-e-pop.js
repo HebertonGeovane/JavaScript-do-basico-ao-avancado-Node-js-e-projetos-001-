@@ -1,4 +1,4 @@
-let nomes = ["Heberton", "Johny", "Maria"];
+let nomes = ["Heberton", "Johnny", "Maria"];
 
 let elelementosRemovidos = nomes.pop();
 console.log(elelementosRemovidos); // Maria
