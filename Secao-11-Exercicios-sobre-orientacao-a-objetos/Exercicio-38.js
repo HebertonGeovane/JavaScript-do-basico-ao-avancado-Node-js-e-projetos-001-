@@ -27,32 +27,42 @@ class Endereco {
 let endereco = new Endereco("Avenida Perimetral", "Distrito Triunfo", "Nova Olinda", "CE");
 console.log(endereco);
 /*
-Endereco {
-    rua: 'Rua das Gaivotas',
-        bairro: 'Terrário',
-        cidade: 'São Joaquim',
-        estado: 'SC'
+Object { rua: "Avenida Perimetral", bairro: "Distrito Triunfo", cidade: "Nova Olinda", estado: "CE" }
+​
+bairro: "Distrito Triunfo"
+​
+cidade: "Nova Olinda"
+​
+estado: "CE"
+​
+rua: "Avenida Perimetral"
 }
 */
 
 endereco.novaRua = "Avenida Perimetral";
 console.log(endereco);
 /*
-Endereco {
-    rua: 'Rua dos Pardais',
-        bairro: 'Terrário',
-        cidade: 'São Joaquim',
-        estado: 'SC'
-}
+Object { rua: "Avenida Perimetral", bairro: "Distrito Triunfo", cidade: "Nova Olinda", estado: "CE" }
+​
+bairro: "Distrito Triunfo"
+​
+cidade: "Nova Olinda"
+​
+estado: "CE"
+​
+rua: "Avenida Perimetral"
 */
 
 endereco.novaCidade = "Nova Olinda";
 console.log(endereco);
 /*
-Endereco {
-    rua: 'Rua dos Pardais',
-        bairro: 'Terrário',
-        cidade: 'São Paulo',
-        estado: 'SC'
-}
+Object { rua: "Avenida Perimetral", bairro: "Distrito Triunfo", cidade: "Nova Olinda", estado: "CE" }
+​
+bairro: "Distrito Triunfo"
+​
+cidade: "Nova Olinda"
+​
+estado: "CE"
+​
+rua: "Avenida Perimetral"
 */
